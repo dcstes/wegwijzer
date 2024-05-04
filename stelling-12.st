@@ -9,15 +9,15 @@ e _ 1@-2.
 sketch text: 'Congruente driehoeken' at:-4@4.
 sketch text: 'Twee hoeken en een zijde' at:-4@2.
 A _ sketch point:a.
-A name:'A'.
+A name:'A'; cross.
 B _ sketch point:b.
-B name:'B'.
+B name:'B'; cross.
 C _ sketch point:c.
-C name:'C'.
+C name:'C'; cross.
 D _ sketch point:d.
-D name:'D'.
+D name:'D'; cross.
 E _ sketch point:e.
-E name:'E'.
+E name:'E'; cross.
 AB _ sketch line: A to: B.
 CD _ sketch line: C to: D.
 L _ sketch parallel: AB at: E.
@@ -27,7 +27,12 @@ TB _ sketch line: T to: B.
 M _ sketch parallel: TB at: S.
 M color:Color green.
 U _ sketch intersectionOf: L and: M.
+S name:'S'.
+T name:'T'.
+U name:'U'.
 I _ sketch angle:S to:B to:T.
 J _ sketch angle:B to:T to:C.
 K _ sketch angle:U to:S to:T.
 Q _ sketch angle:T to:U to:S.
+I _ sketch segment:S to:T.
+I large.

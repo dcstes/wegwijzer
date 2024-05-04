@@ -8,15 +8,15 @@ d _ 0@-3.
 e _ 1@-2.
 sketch text: 'Som van de hoeken van een driehoek' at:-4@4.
 A _ sketch point:a.
-A name:'A'.
+A name:'A'; cross.
 B _ sketch point:b.
-B name:'B'.
+B name:'B'; cross.
 C _ sketch point:c.
-C name:'C'.
+C name:'C'; cross.
 D _ sketch point:d.
-D name:'D'.
+D name:'D'; cross.
 E _ sketch point:e.
-E name:'E'.
+E name:'E'; cross.
 AB _ sketch line: A to: B.
 CD _ sketch line: C to: D.
 L _ sketch parallel: AB at: E.
