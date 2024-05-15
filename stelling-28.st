@@ -1,4 +1,4 @@
-| sketch a b c d A B C D E P Q L AB AC BC|
+| sketch a b c d A B C D E P Q L AB AC BC QS S PS |
 
 sketch _ DrGeoSketch new.
 a _ -1@-2.
@@ -6,9 +6,9 @@ b _ 4@-2.
 c _ 2@2.
 d _ -3@0.
 sketch text: 'Evenwijdige lijn' at:-4@4.
-sketch text: 'Evenredige stukken' at:-4@3.
-sketch text: 'AP:PC=BQ:QC' at:-4@2.
-sketch text: 'AC:BC=QP:BQ' at:-4@1.
+sketch text: 'Vormt een gelijkvormige driehoek' at:-4@3.
+sketch text: 'Evenredige zijden' at:-4@2.
+sketch text: 'AC:AB:BC= PC:PQ:QC' at:-4@1.
 A _ sketch point:a.
 A  cross. A name:'A'.
 B _ sketch point:b.
@@ -25,3 +25,9 @@ P _ sketch intersectionOf: L and:AC.
 P name:'P'.
 Q _ sketch intersectionOf: L and:BC.
 Q name:'Q'.
+QS _ sketch parallel:AC at:Q.
+QS color:Color green.
+S _ sketch intersectionOf: QS and:AB.
+S name:'S'.
+PS _ sketch line:S to:P.
+PS color:Color green.
