@@ -1,4 +1,4 @@
-| sketch a b c d e A B C D E P Q R L AB AC BC PQ PR QR f v th P1 Q1 R1 P2 Q2 R2 o O |
+| sketch a b c d e A B C D E P Q R L M F G AB AC BC PQ PR QR f v th P1 Q1 R1 P2 Q2 R2 o O |
 
 sketch _ DrGeoSketch new.
 a _ -1@-2.
@@ -10,7 +10,8 @@ o _ 3@2.
 f _ 0.66.
 th _ 0.
 sketch text: 'Driehoeken zijn gelijkvormig' at:-4@4.
-sketch text: 'Indien 2 hoeken gelijk zijn' at:-4@3.
+sketch text: 'Indien 2 zijden evenredig' at:-4@3.
+sketch text: 'Ingesloten hoek gelijk' at:-4@2.
 A _ sketch point:a.
 A  cross. A name:'A'.
 B _ sketch point:b.
@@ -48,6 +49,8 @@ PQ _ sketch segment: P to: Q.
 PR _ sketch segment: P to: R.
 QR _ sketch segment: Q to: R.
 sketch angle:Q to:P to: R.
-sketch angle:P to:R to: Q.
 sketch angle:B to:A to: C.
-sketch angle:A to:C to: B.
+AC large.
+AB large.
+PQ large.
+PR large.

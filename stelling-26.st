@@ -7,8 +7,8 @@ c _ 2@2.
 d _ -3@0.
 sketch text: 'Evenwijdige lijn' at:-4@4.
 sketch text: 'Evenredige stukken' at:-4@3.
-sketch text: 'AP:PC=BQ:QC' at:-4@2.
-sketch text: 'AC:BC=QP:BQ' at:-4@1.
+sketch text: 'AP:PC = BQ:QC' at:-4@2.
+sketch text: 'AC:BC = PC:QC' at:-4@1.
 A _ sketch point:a.
 A  cross. A name:'A'.
 B _ sketch point:b.
