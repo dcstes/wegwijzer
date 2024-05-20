@@ -9,6 +9,7 @@ sketch text: 'Evenwijdige lijn' at:-4@4.
 sketch text: 'Vormt een gelijkvormige driehoek' at:-4@3.
 sketch text: 'Evenredige zijden' at:-4@2.
 sketch text: 'AC:AB:BC= PC:PQ:QC' at:-4@1.
+sketch text: 'PC:AC = QC:BC = PQ:AB' at:-4@-3.
 A _ sketch point:a.
 A  cross. A name:'A'.
 B _ sketch point:b.
