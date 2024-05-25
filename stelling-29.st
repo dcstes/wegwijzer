@@ -4,7 +4,7 @@ sketch _ DrGeoSketch new.
 a _ -1@-2.
 b _ 4@-2.
 c _ 2@2.
-sketch text: 'Middenparallel' at:-4@4.
+sketch text: 'Middenevenwijdige' at:-4@4.
 sketch text: 'Helft derde zijde' at:-4@2.
 A _ sketch point:a.
 A  cross. A name:'A'.
