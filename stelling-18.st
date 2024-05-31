@@ -1,4 +1,4 @@
-| sketch a b c d e A B C D AB AC L M E F G H P Q |
+| sketch a b c d e A B C D AB AC L M E F G H P Q Z |
 
 sketch _ DrGeoSketch new.
 a _ 0@2.
@@ -24,3 +24,5 @@ F large.
 AC _ sketch segment:B to:C.
 P _ sketch angle:C to:B to:A.
 Q _ sketch angle:A to:C to:B.
+Z _ sketch circleCenter: A to: B.
+Z color:Color green.

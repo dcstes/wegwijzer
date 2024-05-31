@@ -1,4 +1,4 @@
-| sketch a b c A B C M BC AB AC MC MB F G P Q R |
+| sketch a b c A B C M BC AB AC MC MB F G P Q R O Z |
 
 sketch _ DrGeoSketch new.
 a _ -1@-2.
@@ -17,10 +17,8 @@ MB large.
 M name:'M'.
 G _ sketch circleCenter: B to: A.
 G color:Color green.
-G hide.
 H _ sketch circleCenter: A to: B.
 H color:Color green. 
-H hide.
 C _ sketch intersectionOf: G and: H.
 C name:'C'.
 AC _ sketch segment:A to:C.
@@ -29,3 +27,6 @@ BC large.
 MC _ sketch segment:M to:C.
 MC large.
 P _ sketch angle:C to:B to:A.
+O _ sketch middleOf: BC.
+Z _ sketch circleCenter: O to: B.
+Z color:Color red. 

@@ -13,10 +13,8 @@ AB _ sketch segment: A to: B.
 AB large.
 G _ sketch circleCenter: B to: A.
 G color:Color green.
-G hide.
 H _ sketch circleCenter: A to: B.
 H color:Color green. 
-H hide.
 C _ sketch intersectionOf: G and: H.
 C name:'C'.
 AC _ sketch segment:A to:C.
