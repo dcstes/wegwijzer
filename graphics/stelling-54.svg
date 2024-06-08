@@ -1,0 +1,26 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="311.71868720696585" x="97.0" y="61.620897521768256"/> 
+<text fill="#000000" font-size="15.399999999999999" x="103.0" y="79.62089752176826">Vierhoek met 2 paar evenwijdige zijden</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="252.68117883456125" x="97.0" y="95.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="103.0" y="113.62089752176826">Diagonalen snijden middendoor</text>
+<path d=" M 164.0 196.62089752176826 L 170.0 202.62089752176826 M 164.0 202.62089752176826 L 170.0 196.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="174.0" y="215.62089752176826">A</text>
+<path d=" M 368.0 196.62089752176826 L 374.0 202.62089752176826 M 368.0 202.62089752176826 L 374.0 196.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="378.0" y="215.62089752176826">B</text>
+<path d=" M 300.0 128.62089752176826 L 306.0 134.62089752176826 M 300.0 134.62089752176826 L 306.0 128.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="310.0" y="147.62089752176826">C</text>
+<path d=" M 232.0 298.62089752176826 L 238.0 304.62089752176826 M 232.0 304.62089752176826 L 238.0 298.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="242.0" y="317.62089752176826">D</text>
+<path d=" M 266.0 264.62089752176826 L 272.0 270.62089752176826 M 266.0 270.62089752176826 L 272.0 264.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="276.0" y="283.62089752176826">E</text>
+<polyline fill="none" points="0,199.62089752176826 468.0,199.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="195.15164099129274,401.2417950435365 355.6483590087073,0" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="0,267.62089752176826 468.0,267.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="290.35164099129264,401.2417950435365 450.8483590087073,0" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="340.8" y="264.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="350.8" y="283.62089752176826">R</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="272.8" y="196.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="282.8" y="215.62089752176826">S</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="245.6" y="264.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="255.6" y="283.62089752176826">T</text></svg>

@@ -1,0 +1,27 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="259.87943737441395" x="96.0" y="96.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="102.0" y="114.62089752176826">Snijpunt van de middelloodlijnen</text>
+<path d=" M 129.0 299.62089752176826 L 135.0 305.62089752176826 M 129.0 305.62089752176826 L 135.0 299.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="139.0" y="318.62089752176826">A</text>
+<path d=" M 197.0 146.62089752176826 L 203.0 152.62089752176826 M 197.0 152.62089752176826 L 203.0 146.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="207.0" y="165.62089752176826">B</text>
+<path d=" M 333.0 265.62089752176826 L 339.0 271.62089752176826 M 333.0 271.62089752176826 L 339.0 265.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="343.0" y="284.62089752176826">C</text>
+<polyline fill="none" points="132.0,302.62089752176826 200.0,149.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="132.0,302.62089752176826 336.0,268.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="200.0,149.62089752176826 336.0,268.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="163.0" y="223.12089752176826"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="231.0" y="282.62089752176826"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="265.0" y="206.12089752176826"/> 
+<polyline fill="none" points="253.27014958696142,401.2417950435365 186.3965170797053,0" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="0,152.34311974399046 468.0,360.3431197439904" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="99.89421466845285,401.2417950435365 450.9807853315473,0" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="225.73" y="251.00089752176825"/> 
+<text fill="#000000" font-size="11.2" x="235.73" y="270.00089752176825">S</text>
+<path d=" M 243.86393923832145 283.9769076487147 L 242.21994936526787 274.11296841039325 L 232.35601012694642 275.7569582834468" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="244.61795164955888" y="262.1402260295325">90°</text>
+<path d=" M 175.13811548620257 230.18228218230274 L 179.19950014673705 221.04416669610018 L 170.0613846605345 216.9827820355657" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="188.94171108649758" y="218.55662974595785">90°</text>
+<path d=" M 261.4149539213148 216.64666446883703 L 268.9407208683836 223.23171054752223 L 275.5257669470688 215.70594360045345" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="260.6027802377225" y="249.04337804674958">90°</text></svg>

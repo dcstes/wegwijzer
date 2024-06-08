@@ -1,0 +1,17 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="200.56932350971198" x="97.0" y="62.620897521768256"/> 
+<text fill="#000000" font-size="15.399999999999999" x="103.0" y="80.62089752176826">Loodlijn door middelpunt</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="208.01808439383785" x="97.0" y="96.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="103.0" y="114.62089752176826">Snijdt koorde middendoor</text>
+<path d=" M 232.0 231.62089752176826 L 238.0 237.62089752176826 M 232.0 237.62089752176826 L 238.0 231.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="242.0" y="250.62089752176826">A</text>
+<path d=" M 164.0 265.62089752176826 L 170.0 271.62089752176826 M 164.0 271.62089752176826 L 170.0 265.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="174.0" y="284.62089752176826">B</text>
+<path d=" M 232.0 299.62089752176826 L 238.0 305.62089752176826 M 232.0 305.62089752176826 L 238.0 299.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<polyline fill="none" points="235.0,401.2417950435365 235.0,0" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="300.0" y="265.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="310.0" y="284.62089752176826">C</text>
+<polyline fill="none" points="167.0,268.62089752176826 303.0,268.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="232.0" y="265.62089752176826"/> 
+<circle cx="235.0" cy="234.62089752176826" fill="none" r="76.02631123499285" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> </svg>

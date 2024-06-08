@@ -1,0 +1,22 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="219.62960482250503" x="96.0" y="62.620897521768256"/> 
+<text fill="#000000" font-size="15.399999999999999" x="102.0" y="80.62089752176826">Bogen tussen evenwijdigen</text>
+<path d=" M 95.0 197.62089752176826 L 101.0 203.62089752176826 M 95.0 203.62089752176826 L 101.0 197.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="105.0" y="216.62089752176826">A</text>
+<path d=" M 163.0 231.62089752176826 L 169.0 237.62089752176826 M 163.0 237.62089752176826 L 169.0 231.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="173.0" y="250.62089752176826">M</text>
+<path d=" M 333.0 197.62089752176826 L 339.0 203.62089752176826 M 333.0 203.62089752176826 L 339.0 197.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<path d=" M 322.8 265.62089752176826 L 328.8 271.62089752176826 M 322.8 271.62089752176826 L 328.8 265.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<circle cx="166.0" cy="234.62089752176826" fill="none" r="76.02631123499285" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="231.0" y="197.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="241.0" y="216.62089752176826">B</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="95.00000000000009" y="265.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="105.00000000000009" y="284.62089752176826">D</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="230.99999999999994" y="265.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="240.99999999999994" y="284.62089752176826">C</text>
+<polyline fill="none" points="0,268.62089752176826 468.0,268.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="0,200.62089752176826 468.0,200.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<path d=" M 233.99999999999994 268.62089752176826 A 76.0263112349928 76.0263112349928 0 0 0 233.99999999999997 200.62089752176828" fill="none" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<path d=" M 98.0 200.62089752176823 A 76.02631123499285 76.02631123499285 0 0 0 98.00000000000003 268.62089752176826" fill="none" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<polyline fill="none" points="98.0,200.62089752176826 233.99999999999994,268.62089752176826" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> </svg>

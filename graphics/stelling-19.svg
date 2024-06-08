@@ -1,0 +1,23 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="174.09711989283323" x="79.0" y="62.620897521768256"/> 
+<text fill="#000000" font-size="15.399999999999999" x="85.0" y="80.62089752176826">Gelijkzijdige driehoek</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="184.45612860013398" x="79.0" y="96.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="85.0" y="114.62089752176826">Elke hoek is 60 graden</text>
+<path d=" M 197.0 265.62089752176826 L 203.0 271.62089752176826 M 197.0 271.62089752176826 L 203.0 265.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="207.0" y="284.62089752176826">A</text>
+<path d=" M 333.0 265.62089752176826 L 339.0 271.62089752176826 M 333.0 271.62089752176826 L 339.0 265.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="343.0" y="284.62089752176826">B</text>
+<polyline fill="none" points="200.0,268.62089752176826 336.0,268.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<circle cx="336.0" cy="268.62089752176826" fill="none" r="136.0" stroke="#15B01A" stroke-dashoffset="0.0" stroke-width="1"/> 
+<circle cx="200.0" cy="268.62089752176826" fill="none" r="136.0" stroke="#15B01A" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="265.0" y="147.84144260708462"/> 
+<text fill="#000000" font-size="11.2" x="275.0" y="166.84144260708462">C</text>
+<polyline fill="none" points="200.0,268.62089752176826 268.0,150.84144260708462" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<polyline fill="none" points="336.0,268.62089752176826 268.0,150.84144260708462" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<path d=" M 328.5 255.63051646500168 A 15 15 0 0 0 321.0 268.62089752176826" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="295.9637257369351" y="256.12089752176826">60°</text>
+<path d=" M 260.5 163.8318236638512 A 15 15 0 0 0 275.5 163.8318236638512" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="258.27461486939046" y="190.84144260708462">60°</text>
+<path d=" M 215.0 268.62089752176826 A 15 15 0 0 0 207.5 255.63051646500168" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="220.58550400184583" y="256.12089752176826">60°</text></svg>

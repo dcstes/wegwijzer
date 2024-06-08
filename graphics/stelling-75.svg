@@ -1,0 +1,19 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="141.14132618888144" x="96.0" y="62.620897521768256"/> 
+<text fill="#000000" font-size="15.399999999999999" x="102.0" y="80.62089752176826">Middelpuntshoek</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="279.5880776959143" x="96.0" y="96.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="102.0" y="114.62089752176826">Gelijk aan de boog waarop hij staat</text>
+<path d=" M 265.0 163.62089752176826 L 271.0 169.62089752176826 M 265.0 169.62089752176826 L 271.0 163.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="275.0" y="182.62089752176826">A</text>
+<path d=" M 231.0 231.62089752176826 L 237.0 237.62089752176826 M 231.0 237.62089752176826 L 237.0 231.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="241.0" y="250.62089752176826">M</text>
+<path d=" M 333.0 197.62089752176826 L 339.0 203.62089752176826 M 333.0 203.62089752176826 L 339.0 197.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<circle cx="234.0" cy="234.62089752176826" fill="none" r="76.02631123499285" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="303.12489168102786" y="207.57926696142565"/> 
+<text fill="#000000" font-size="11.2" x="313.12489168102786" y="226.57926696142565">B</text>
+<polyline fill="none" points="234.0,234.62089752176826 268.0,166.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="234.0,234.62089752176826 306.12489168102786,210.57926696142565" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<path d=" M 248.2302494707577 229.87748103151569 A 15 15 0 0 0 240.70820393249937 221.2044896567695" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="250.71550329424022" y="216.68883657416373">45°</text>
+<path d=" M 306.12489168102786 210.57926696142565 A 76.02631123499285 76.02631123499285 0 0 0 268.0 166.62089752176826" fill="none" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> </svg>

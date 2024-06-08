@@ -1,0 +1,18 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316141" stroke="#FFFFFF" stroke-width="2" width="226.98258539852645" x="164.0" y="130.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="170.0" y="148.62089752176826">Deellijnen van nevenhoeken</text>
+<path d=" M 197.0 197.62089752176826 L 203.0 203.62089752176826 M 197.0 203.62089752176826 L 203.0 197.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<path d=" M 299.0 129.62089752176826 L 305.0 135.62089752176826 M 299.0 135.62089752176826 L 305.0 129.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<path d=" M 367.0 197.62089752176826 L 373.0 203.62089752176826 M 367.0 203.62089752176826 L 373.0 197.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<path d=" M 265.0 265.62089752176826 L 271.0 271.62089752176826 M 265.0 271.62089752176826 L 271.0 265.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<polyline fill="none" points="0,200.62089752176826 468.0,200.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="234.8447756195579,401.2417950435365 335.15522438044206,0" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="282.0" y="197.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="292.0" y="216.62089752176826">S</text>
+<path d=" M 300.0 200.62089752176826 A 15 15 0 0 0 288.638034375545 186.06876001958827" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="302.8618051999543" y="184.081470192676">76°</text>
+<path d=" M 288.638034375545 186.06876001958827 A 15 15 0 0 0 270.0 200.62089752176826" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="250.2442297372172" y="178.03370719120443">104°</text>
+<polyline fill="none" points="28.0494878224413,401.2417950435365 468.0,57.73881514976031" stroke="#E50000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="441.6400634166747,401.2417950435365 128.35993658332535,0" stroke="#E50000" stroke-dashoffset="0.0" stroke-width="1"/> </svg>

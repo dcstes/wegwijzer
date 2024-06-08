@@ -1,0 +1,34 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="190.43871399866043" x="96.0" y="62.620897521768256"/> 
+<text fill="#000000" font-size="15.399999999999999" x="102.0" y="80.62089752176826">Congruente driehoeken</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316141" stroke="#FFFFFF" stroke-width="2" width="250.36771600803752" x="96.0" y="130.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="102.0" y="148.62089752176826">Twee zijden en ingesloten hoek</text>
+<path d=" M 197.0 197.62089752176826 L 203.0 203.62089752176826 M 197.0 203.62089752176826 L 203.0 197.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="207.0" y="216.62089752176826">A</text>
+<path d=" M 333.0 197.62089752176826 L 339.0 203.62089752176826 M 333.0 203.62089752176826 L 339.0 197.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="343.0" y="216.62089752176826">B</text>
+<path d=" M 299.0 95.62089752176826 L 305.0 101.62089752176826 M 299.0 101.62089752176826 L 305.0 95.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="309.0" y="114.62089752176826">C</text>
+<path d=" M 231.0 299.62089752176826 L 237.0 305.62089752176826 M 231.0 305.62089752176826 L 237.0 299.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="241.0" y="318.62089752176826">D</text>
+<path d=" M 265.0 265.62089752176826 L 271.0 271.62089752176826 M 265.0 271.62089752176826 L 271.0 265.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="275.0" y="284.62089752176826">E</text>
+<polyline fill="none" points="0,200.62089752176826 468.0,200.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="201.12636749274387,401.2417950435365 334.87363250725605,0" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="0,268.62089752176826 468.0,268.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="265.0" y="197.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="275.0" y="216.62089752176826">S</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="242.33333333333334" y="265.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="252.33333333333334" y="284.62089752176826">T</text>
+<polyline fill="none" points="68.50546997097572,401.2417950435365 468.0,101.6208975217683" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="0.5054699709757294,401.2417950435365 468.0,50.62089752176829" stroke="#15B01A" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="174.33333333333331" y="265.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="184.33333333333331" y="284.62089752176826">U</text>
+<path d=" M 257.3333333333333 259.62089752176826 A 15 15 0 0 0 250.07674982358589 254.39064805101054" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="256.07280816595556" y="245.22742104062363">35°</text>
+<path d=" M 256.0 209.62089752176826 A 15 15 0 0 0 263.25658350974743 214.85114699252597" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="237.80975490615873" y="234.0143740029129">35°</text>
+<polyline fill="none" points="268.0,200.62089752176826 245.33333333333334,268.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<polyline fill="none" points="245.33333333333334,268.62089752176826 336.0,200.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<polyline fill="none" points="268.0,200.62089752176826 177.33333333333331,268.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> </svg>

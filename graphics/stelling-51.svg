@@ -1,0 +1,34 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="261.1761553918286" x="96.0" y="62.620897521768256"/> 
+<text fill="#000000" font-size="15.399999999999999" x="102.0" y="80.62089752176826">Binnenhoeken evenwijdige lijnen</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="301.57334226389827" x="96.0" y="96.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="102.0" y="114.62089752176826">Opeenvolgende hoeken parallelogram</text>
+<path d=" M 163.0 197.62089752176826 L 169.0 203.62089752176826 M 163.0 203.62089752176826 L 169.0 197.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="173.0" y="216.62089752176826">A</text>
+<path d=" M 367.0 197.62089752176826 L 373.0 203.62089752176826 M 367.0 203.62089752176826 L 373.0 197.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="377.0" y="216.62089752176826">B</text>
+<path d=" M 299.0 129.62089752176826 L 305.0 135.62089752176826 M 299.0 135.62089752176826 L 305.0 129.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="309.0" y="148.62089752176826">C</text>
+<path d=" M 231.0 299.62089752176826 L 237.0 305.62089752176826 M 231.0 305.62089752176826 L 237.0 299.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="241.0" y="318.62089752176826">D</text>
+<path d=" M 265.0 265.62089752176826 L 271.0 271.62089752176826 M 265.0 271.62089752176826 L 271.0 265.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="275.0" y="284.62089752176826">E</text>
+<polyline fill="none" points="0,200.62089752176826 468.0,200.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="194.55164099129274,401.2417950435365 355.04835900870734,0" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="0,268.62089752176826 468.0,268.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="289.7516409912926,401.2417950435365 450.24835900870727,0" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="339.8" y="265.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="349.8" y="284.62089752176826">R</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="271.8" y="197.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="281.8" y="216.62089752176826">S</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="244.6" y="265.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="254.6" y="284.62089752176826">T</text>
+<path d=" M 269.22913985468847 214.54804788504714 A 15 15 0 0 0 289.8 200.62089752176826" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="281.20566539199086" y="234.6032505881928">112°</text>
+<path d=" M 262.6 268.62089752176826 A 15 15 0 0 0 253.17086014531156 254.69374715848937" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="266.856967935815" y="253.99888919608682">68°</text>
+<path d=" M 348.37086014531155 254.69374715848937 A 15 15 0 0 0 327.8 268.62089752176826" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="309.96164874062805" y="244.63854445534372">112°</text>
+<path d=" M 355.0 200.62089752176826 A 15 15 0 0 0 364.4291398546884 214.54804788504714" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="331.2922618029659" y="225.2429058474497">68°</text></svg>

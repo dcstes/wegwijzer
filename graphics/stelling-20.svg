@@ -1,0 +1,27 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="186.28332217012724" x="80.0" y="61.620897521768256"/> 
+<text fill="#000000" font-size="15.399999999999999" x="86.0" y="79.62089752176826">Rechthoekige driehoek</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="240.14869390488946" x="80.0" y="95.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="86.0" y="113.62089752176826">Met basis hoek van 60 graden</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316141" stroke="#FFFFFF" stroke-width="2" width="237.0395177494977" x="80.0" y="129.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="86.0" y="147.62089752176826">Schuine zijde = 2x Basis zijde</text>
+<path d=" M 198.0 264.62089752176826 L 204.0 270.62089752176826 M 198.0 270.62089752176826 L 204.0 264.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="208.0" y="283.62089752176826">A</text>
+<path d=" M 334.0 264.62089752176826 L 340.0 270.62089752176826 M 334.0 270.62089752176826 L 340.0 264.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="344.0" y="283.62089752176826">B</text>
+<polyline fill="none" points="201.0,267.62089752176826 337.0,267.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="266.0" y="264.62089752176826"/> 
+<text fill="#000000" font-size="11.2" x="276.0" y="283.62089752176826">M</text>
+<polyline fill="none" points="269.0,267.62089752176826 337.0,267.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<circle cx="337.0" cy="267.62089752176826" fill="none" r="136.0" stroke="#15B01A" stroke-dashoffset="0.0" stroke-width="1"/> 
+<circle cx="201.0" cy="267.62089752176826" fill="none" r="136.0" stroke="#15B01A" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="266.0" y="146.84144260708462"/> 
+<text fill="#000000" font-size="11.2" x="276.0" y="165.84144260708462">C</text>
+<polyline fill="none" points="201.0,267.62089752176826 269.0,149.84144260708462" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="337.0,267.62089752176826 269.0,149.84144260708462" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<polyline fill="none" points="269.0,267.62089752176826 269.0,149.84144260708462" stroke="#000000" stroke-dashoffset="0.0" stroke-width="3"/> 
+<path d=" M 329.5 254.63051646500168 A 15 15 0 0 0 322.0 267.62089752176826" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="296.9637257369351" y="255.12089752176826">60°</text>
+<rect fill="#E50000" height="6.0" width="6.0" x="300.0" y="205.73117006442644"/> 
+<circle cx="303.0" cy="208.73117006442644" fill="none" r="67.99999999999999" stroke="#E50000" stroke-dashoffset="0.0" stroke-width="1"/> </svg>

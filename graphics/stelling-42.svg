@@ -1,0 +1,20 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="189.36302746148692" x="96.0" y="96.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="102.0" y="114.62089752176826">Verschil van kwadraten</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316141" stroke="#FFFFFF" stroke-width="2" width="247.4574681848627" x="96.0" y="130.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="102.0" y="148.62089752176826">AC^2 - BC^2 = AF^2 - FB^2</text>
+<path d=" M 180.0 248.62089752176826 L 186.0 254.62089752176826 M 180.0 254.62089752176826 L 186.0 248.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="190.0" y="267.62089752176826">A</text>
+<path d=" M 271.8 197.62089752176826 L 277.8 203.62089752176826 M 271.8 203.62089752176826 L 277.8 197.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="281.8" y="216.62089752176826">B</text>
+<path d=" M 197.0 180.62089752176826 L 203.0 186.62089752176826 M 197.0 186.62089752176826 L 203.0 180.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="207.0" y="199.62089752176826">C</text>
+<polyline fill="none" points="183.0,251.62089752176826 274.8,200.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="183.0,251.62089752176826 200.0,183.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="274.8,200.62089752176826 200.0,183.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#E50000" height="6.0" width="6.0" x="221.85849056603774" y="225.36618054063618"/> 
+<text fill="#000000" font-size="11.2" x="231.85849056603774" y="244.36618054063618">F</text>
+<polyline fill="none" points="200.0,183.62089752176826 224.85849056603774,228.36618054063618" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<path d=" M 233.6000633272531 223.50975122884986 L 228.7436340154668 214.7681784676345 L 220.00206125425143 219.6246077794208" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="224.74834491183645" y="199.71284237320737">90°</text></svg>

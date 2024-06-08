@@ -1,0 +1,35 @@
+
+<svg height="401.2417950435365" version="1.1" width="468.0" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.564634963161424" stroke="#FFFFFF" stroke-width="2" width="297.8452779638313" x="79.0" y="62.620897521768256"/> 
+<text fill="#000000" font-size="15.399999999999999" x="85.0" y="80.62089752176826">Som van de hoeken van een vierhoek</text>
+<path d=" M 163.0 265.62089752176826 L 169.0 271.62089752176826 M 163.0 271.62089752176826 L 169.0 265.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="173.0" y="284.62089752176826">A</text>
+<path d=" M 333.0 265.62089752176826 L 339.0 271.62089752176826 M 333.0 271.62089752176826 L 339.0 265.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="343.0" y="284.62089752176826">B</text>
+<path d=" M 265.0 129.62089752176826 L 271.0 135.62089752176826 M 265.0 135.62089752176826 L 271.0 129.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="275.0" y="148.62089752176826">C</text>
+<path d=" M 129.0 163.62089752176826 L 135.0 169.62089752176826 M 129.0 169.62089752176826 L 135.0 163.62089752176826" fill="none" stroke="#E50000" stroke-width="1.375"/> 
+<text fill="#000000" font-size="11.2" x="139.0" y="182.62089752176826">D</text>
+<polyline fill="none" points="166.0,268.62089752176826 336.0,268.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="336.0,268.62089752176826 268.0,132.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="268.0,132.62089752176826 132.0,166.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<polyline fill="none" points="166.0,268.62089752176826 132.0,166.62089752176826" stroke="#000000" stroke-dashoffset="0.0" stroke-width="1"/> 
+<path d=" M 329.2917960675006 255.2044896567695 A 15 15 0 0 0 321.0 268.62089752176826" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="296.50183657706907" y="255.22030859759857">63°</text>
+<path d=" M 253.44786249782 136.25893189731323 A 15 15 0 0 0 274.7082039324994 146.037305386767" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="240.15866873269977" y="169.41884896902002">103°</text>
+<path d=" M 181.0 268.62089752176826 A 15 15 0 0 0 161.25658350974743 254.39064805101054" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="173.24851702954123" y="245.22742104062363">108°</text>
+<path d=" M 136.74341649025257 180.85114699252597 A 15 15 0 0 0 146.55213750217996 162.98286314622328" fill="none" stroke="#000000" stroke-width="1"/> 
+<text fill="#000000" font-size="11.2" x="152.95581821880805" y="188.4632180575997">86°</text>
+<polyline fill="none" points="0,100.62089752176824 468.0,334.62089752176826" stroke="#000000" stroke-dasharray="1 6" stroke-dashoffset="0.0" stroke-width="1"/> 
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="55.19691895512392" x="96.0" y="300.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="102.0" y="318.62089752176826">63.43</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="64.79705291359679" x="130.0" y="300.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="136.0" y="318.62089752176826">102.53</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="64.79705291359679" x="164.0" y="300.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="170.0" y="318.62089752176826">108.43</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="55.19691895512392" x="198.0" y="300.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="204.0" y="318.62089752176826">85.60</text>
+<rect fill="#FFFFFF" fill-opacity="0.6000000238418579" height="29.56463496316144" stroke="#FFFFFF" stroke-width="2" width="64.79705291359676" x="266.0" y="300.62089752176826"/> 
+<text fill="#000000" font-size="15.399999999999999" x="272.0" y="318.62089752176826">360.00</text></svg>
