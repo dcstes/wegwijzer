@@ -2,7 +2,7 @@
 DrGeo Wegwijzer in de Elementaire Meetkunde
 DrGeo Smalltalk Sketches
 
-Smalltalk (Cuis http://cuis-smalltalk.org) code
+Smalltalk (Cuis https://cuis.st) code
 
 Scalable Vector Graphics in graphics/ directory
 
